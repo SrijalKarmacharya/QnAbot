@@ -1,0 +1,12 @@
+# --- Security & Credentials ---
+.env
+
+private_qa_db/
+
+.venv/
+__pycache__/
+*.pyc
+
+# --- Docker & Build Artifacts ---
+target/
+*.log

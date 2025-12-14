@@ -1,0 +1,7 @@
+langchain-classic
+langchain-aws
+langchain-chroma
+langchain-community
+pypdf
+langsmith
+boto3
